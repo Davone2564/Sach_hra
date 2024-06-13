@@ -15,6 +15,14 @@ Dávid Mičo 5ZYI18
 
 Ako zadanie semestrálnej práce som si vybral stolovú hru **Šach**. Pri semestrálnej práci som riešil problém, ako zobraziť na plátne ľubovoľný obrázok z internetu. Taktiež ma potrápilo naprogramovať pohyby, ktorými sa šachové figúrky pohybujú. Celá semestrálna práca sa mi riešila ľahšie vďaka tomu, že poznám pravidlá šachu a s obľubou si ho raz za čas zahrám.
 
+**UML DIAGRAM BALÍČKOV**
+
+![image](https://github.com/Davone2564/Sach_hra/assets/45235000/ac3572a1-203d-426d-a306-07e205ec42ef)
+
+**UML DIAGRAM TRIED**
+
+![image](https://github.com/Davone2564/Sach_hra/assets/45235000/bfbf381e-1fa8-435f-bf9a-0541069681b5)
+
 **TRIEDY**
 
 Trieda **Policko** obsahuje:
