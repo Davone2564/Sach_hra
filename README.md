@@ -17,7 +17,7 @@ Ako zadanie semestrálnej práce som si vybral stolovú hru **Šach**. Pri semes
 
 **UML DIAGRAM BALÍČKOV**
 
-![image](https://github.com/Davone2564/Sach_hra/assets/45235000/ac3572a1-203d-426d-a306-07e205ec42ef)
+![image](https://github.com/Davone2564/Sach_hra/assets/45235000/1d17db08-ef00-48d9-ad48-d496045abeb0)
 
 **UML DIAGRAM TRIED**
 
